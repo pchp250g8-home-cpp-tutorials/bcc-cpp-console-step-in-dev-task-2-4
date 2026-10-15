@@ -1,0 +1,9 @@
+A weather station records wave heights; the log ends with 0. The
+number 0 is not a wave height. Find the length of the longest
+continuous segment where each wave is strictly higher than the
+previous one.
+
+Метеостанция записывает высоты волн; запись
+заканчивается числом 0. Число 0 не является высотой волны.
+Найди длину самого длинного непрерывного участка, где
+каждая следующая волна строго выше предыдущей.
